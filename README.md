@@ -18,5 +18,6 @@ Commits and pull requests made by the bot appear as `lyxvo-ai[bot]`.
 
 ## Links
 
+- Install the app: https://github.com/apps/lyxvo-ai
 - Website: https://lyxvo.ai
 - Docs: https://lyxvo.ai/docs/
